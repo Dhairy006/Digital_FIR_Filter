@@ -516,14 +516,6 @@ Indian Institute of Technology Guwahati
 
 Indian Institute of Technology Guwahati
 
----
-
-# Acknowledgements
-
-This project was developed as part of academic coursework focused on Digital Signal Processing, FPGA Design, and Hardware Acceleration of Signal Processing Algorithms.
-
----
-
 
 
 ---
